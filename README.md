@@ -15,6 +15,9 @@ ISTQB® CTFL certified Software QA Engineer with 3+ years of experience in manua
 
 ## 📈 Contribution History
 
+### 2025
+![2025](https://github-readme-activity-graph.vercel.app/graph?username=tcankaya&theme=github&from=2025-01-01&to=2025-12-31)
+
 ### 2024
 ![2024](https://github-readme-activity-graph.vercel.app/graph?username=tcankaya&theme=github&from=2024-01-01&to=2024-12-31)
 
