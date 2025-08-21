@@ -20,6 +20,9 @@ ISTQB® CTFL-certified Software QA Engineer with 3+ years of experience in manua
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tcankaya&layout=compact&theme=github&hide_border=true)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=tcankaya&theme=github&hide_border=true)  
 
+![GitHub followers](https://img.shields.io/github/followers/tcankaya?style=social)
+![GitHub issues](https://img.shields.io/github/issues/tcankaya?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/tcankaya?style=flat-square)
 ---
 
 ✨ *This profile README is auto-updated with my GitHub activity. Scroll through the graphs above to see my journey across years.*
