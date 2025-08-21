@@ -23,7 +23,7 @@ ISTQB® CTFL certified Software QA Engineer with 3+ years of experience in manua
 
 ---
 
-## 📊 GitHub Insights (Current Year)
+## 📊 GitHub Insights
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tcankaya&layout=compact&theme=github&hide_border=true)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tcankaya&show_icons=true&theme=github&hide_border=true)  
