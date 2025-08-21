@@ -1,4 +1,4 @@
-# Talha Cankaya | Software QA Engineer 
+## 💻 Talha Cankaya | Software QA Engineer 
 
 ISTQB® CTFL-certified Software QA Engineer with 3+ years of experience in manual and automation testing for web, mobile, and API platforms. Skilled in Java, Selenium, and Appium with a strong curiosity for exploring systems to uncover hidden issues and enhance quality. I believe that true quality emerges from questioning assumptions, challenging limitations and continuous learning.
 
