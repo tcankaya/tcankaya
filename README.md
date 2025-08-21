@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Talha Cankaya
+# Talha Cankaya | Software QA Engineer 
 
-💻 Software Test Engineer | 🚀 Automation & QA | 📊 Passionate About Clean Code & Reliable Systems  
+ISTQB® CTFL-certified Software QA Engineer with 3+ years of experience in manual and automation testing for web, mobile, and API platforms. Skilled in Java, Selenium, and Appium with a strong curiosity for exploring systems to uncover hidden issues and enhance quality. I believe that true quality emerges from questioning assumptions, challenging limitations and continuous learning.
 
 ---
 
@@ -11,9 +11,6 @@
 
 ### 2023
 ![2023](https://github-readme-activity-graph.vercel.app/graph?username=tcankaya&theme=github&from=2023-01-01&to=2023-12-31)
-
-### 2022
-![2022](https://github-readme-activity-graph.vercel.app/graph?username=tcankaya&theme=github&from=2022-01-01&to=2022-12-31)
 
 ---
 
