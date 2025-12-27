@@ -4,7 +4,7 @@ ISTQB® CTFL certified Software QA Engineer with 4 years of experience in manual
 
 ## 🛠 Skills & Tools
 - **Languages:** Java
-- **Testing:** Selenium, Appium, Rest Assured, Postman, JUnit, TestNG, Cucumber
+- **Testing:** Selenium, Appium, Rest Assured, Postman, Swagger, JUnit, TestNG, Cucumber
 - **CI/CD:** Jenkins
 - **Databases:** MySQL, PostgreSQL
 - **Other Tools:** JIRA, Confluence, Elasticsearch
