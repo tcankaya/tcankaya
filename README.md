@@ -1,6 +1,4 @@
-## 👋 Hi, I'm Talha Cankaya
-
-ISTQB® CTFL certified Software QA Engineer with 3+ years of experience in manual and automation testing for web, mobile, and API platforms. Skilled in Java, Selenium, and Appium with a strong curiosity for exploring systems to uncover hidden issues and enhance quality. I believe that true quality emerges from questioning assumptions, challenging limitations and continuous learning.
+ISTQB® CTFL certified Software QA Engineer with 4 years of experience in manual and automation testing for web, mobile, and API platforms. Skilled in Java, Selenium, and Appium with a strong curiosity for exploring systems to uncover hidden issues and enhance quality. I believe that true quality emerges from questioning assumptions, challenging limitations and continuous learning.
  
 ---
 
